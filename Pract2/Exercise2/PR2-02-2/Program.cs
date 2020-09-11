@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PR2_02_1
+namespace PR2_02_2
 {
   class Program
   {
