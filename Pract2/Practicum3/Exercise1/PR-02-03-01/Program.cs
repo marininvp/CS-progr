@@ -21,6 +21,7 @@ namespace PR_02_03_01
                 theByte = sourceFile.ReadByte();
             }
             compStream.Close();
+            sourceFile.Close();
         }
 
         static void Main(string[] args)
